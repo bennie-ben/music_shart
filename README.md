@@ -1,6 +1,7 @@
 # music_shart
 
-KEEP UP WITH THE MUSIC TRENDS AND ADD THEM WITHOUT MOVING BACK AND FORTH FROM YOUR PLAYLIST TO CHART!
+KEEP UP WITH THE MUSIC TRENDS
+AND ADD THEM WITHOUT MOVING BACK AND FORTH FROM YOUR PLAYLIST TO CHART!
 
 - An app made up with ReactNative + EXPO + GraphQL
 
@@ -10,6 +11,9 @@ KEEP UP WITH THE MUSIC TRENDS AND ADD THEM WITHOUT MOVING BACK AND FORTH FROM YO
 - Functionalities
 
 [] Getting automatically updating song data from API.
+
 [] Easy and fast env.
+
 [] Show up the new songs recommendation completely based on the charts.
+
 [] Find and upadates the songs that users haven't been aware of
